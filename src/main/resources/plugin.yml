@@ -1,0 +1,16 @@
+name: Commander
+version: ${project.version}
+main: com.felix.commander.commander.Commander
+api-version: 1.16
+commands:
+  cm1:
+    description: Command 1
+  cm2:
+    description: Command 2
+  cm3:
+    description: Command 3
+  cm4:
+    description: Command 4
+  cm5:
+    description: Command 5
+
