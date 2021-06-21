@@ -1,6 +1,4 @@
 //Copyright 2021 ZeroOne\\
-package com.felix.commander.commander;
-
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
