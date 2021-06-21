@@ -1,3 +1,7 @@
+//Copyright 2021 ZeroOne\\
+
+---You may not Change the Command Variables without the "M", do only Change this if you are changing the Source Code too, otherwise it will not work!---
+
 Command1: cm1
 Command1M: Test1
 Command2: cm2

@@ -1,7 +1,9 @@
-name: Commander
-version: ${project.version}
+//Copyright 2021 ZeroOne\\
+name: Commandermessager
+version: 1.0
 main: com.felix.commander.commander.Commander
 api-version: 1.16
+author: ZeroOne
 commands:
   cm1:
     description: Command 1

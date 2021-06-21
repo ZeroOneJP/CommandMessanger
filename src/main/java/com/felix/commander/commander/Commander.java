@@ -1,3 +1,4 @@
+//Copyright 2021 ZeroOne\\
 package com.felix.commander.commander;
 
 import org.bukkit.Bukkit;
